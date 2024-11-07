@@ -1,3 +1,5 @@
 agora aprendi usar o git
 
 ainda to aprendendo
+
+ aprendi a dar um pull
